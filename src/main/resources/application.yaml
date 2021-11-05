@@ -4,5 +4,5 @@ logging:
 #  path: logs
   level:
     root: INFO
-    ac.uk.bristol.cs.santa.grotto: DEBUG
+    ac.uk.bristol.cs.spe.livedemo: DEBUG
     org.springframework.web: DEBUG
